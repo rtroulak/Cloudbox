@@ -1,21 +1,10 @@
+
 /**
  * @file cloudbox.h
- * @author Surligas Manos surligas@csd.uoc.gr
+ * Troulakis Giorgos Rafail
+ * rtroulak@gmail.com
  * 
- * This is the header file for the Cloudbox client.
- * 
- * There are many function definitions here, that you
- * have to implement.
- * 
- * You can NOT alter the contracts of these functions.
- * 
- * You are FREE to add your own functions, structs,
- * etc.
- * 
- * If you find a bug report it ASAP
- * 
- * Have fun!
- */
+ **/
 
 /*
  * NOTE: pthread.h needs -lpthread flag during compilation.

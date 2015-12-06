@@ -1,3 +1,12 @@
+
+/**
+ * @file cloudbox.c
+ * Troulakis Giorgos Rafail
+ * rtroulak@gmail.com
+ * 
+ * 
+ **/
+
 #include <stdlib.h>
 #include <stdio.h> 
 #include <unistd.h>
